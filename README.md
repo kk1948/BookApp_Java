@@ -1,4 +1,4 @@
-# BookApp_Java
+# ShoppingApp_Java
  Develop a book application using Angular for the frontend and Spring Boot for the backend
  **************************************************************************************
  Angular (Frontend)
@@ -14,7 +14,7 @@ Setup: Use Spring Initializr to generate the project.
 Controllers: Handle HTTP requests with RESTful controllers.
 Services: Encapsulate business logic.
 Repositories: Use Spring Data JPA for database interactions.
-Entities: Define JPA entities (e.g., Book).
+Entities: Define JPA entities (e.g., Shopping).
 Security: Optionally, integrate Spring Security.
 *****************************************************************************************
 Integration
